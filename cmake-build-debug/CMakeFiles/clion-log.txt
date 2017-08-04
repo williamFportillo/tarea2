@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2017.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\WilliamPC\CLionProjects\tareanumero2porgra3
+-- Configuring done
+Warning: Source file "C:/Users/WilliamPC/CLionProjects/tareanumero2porgra3/Test.cpp" is listed multiple times for target "tareanumero2porgra3".
+-- Generating done
+-- Build files have been written to: C:/Users/WilliamPC/CLionProjects/tareanumero2porgra3/cmake-build-debug
